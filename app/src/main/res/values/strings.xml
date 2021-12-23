@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="heading">Tic Tac Toe</string>
+    <string name="grid">Main grid</string>
+    <string name="developer_name">By Asad Ahmed</string>
+</resources>
